@@ -1,7 +1,7 @@
 # 🌾 EcoSimulador Agrinho 2026 — Calculadora de Impacto AgroAmbiental
 
 ## 1. Do Tema e Contextualização
-Este projeto foi desenvolvido especialmente para o Concurso de Programação promovido pelo Serviço Nacional de Aprendizagem Rural (SENAR-PR) e pela Secretaria de Estado da Educação do Paraná (SEED-PR).
+Este projeto foi desenvolvido especialmente para o Concurso Agrinho 2026.
 
 *   **Tema Oficial:** “Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente”
 *   **Subcategoria:** Subcategoria 3 — Programação Front-End (Ensino Médio)
